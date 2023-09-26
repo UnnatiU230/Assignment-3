@@ -1,0 +1,53 @@
+.box{
+    width: 400px;
+    height: 40px;
+    background-color: yellowgreen;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+    margin-left: 600px;
+}
+.flex-container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 250px;
+    
+}
+.flex-box{
+    width: 250px;
+    height: 200px;
+    background:rgb(180, 166, 190) ;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin: 10px;  
+    
+}
+.container{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 20px;
+    margin-left: 250px;
+}
+.boxe{
+    width: 250px;
+    height: 200px;
+    background:rgb(180, 166, 190) ;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin: 10px; 
+}
+.boxes{
+    width: 250px;
+    height: 200px;
+    background:rgb(180, 166, 190) ;
+    color: black;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 550px; 
+    margin-top: 10px;
+}
